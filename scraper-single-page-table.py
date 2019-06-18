@@ -13,6 +13,7 @@ driver = webdriver.Chrome()
 
 # url to be opened
 url = 'https://www.ultimatetennisstatistics.com/rankingsTable'
+url2 = 'https://www.ultimatetennisstatistics.com/playerProfile?playerId='
 
 # access website through driver
 driver.get(url)
@@ -48,3 +49,24 @@ for table in driver.find_elements_by_xpath('//*[contains(@id,"rankingsTable")]//
         player_ids.append(player_id)
 
 print(player_ids)
+
+# pause for table to be loaded
+time.sleep(2)
+
+# loop over the list of player ids 
+for i in range(0,2):
+
+    # compose url's for player detail pages and open these url's
+    driver.get(url2+player_ids[i])
+
+    # open dropdown for statistics options
+    item = wait.until(EC.visibility_of_element_located(
+    (By.XPATH, "//ul[@id='playerPills']/li[9]/a[@class='dropdown-toggle' and contains(.,'Statistics')]")))
+    driver.execute_script("arguments[0].click();", item)
+
+    # select the statistics page from the dropdown
+    item = wait.until(EC.visibility_of_element_located(
+    (By.XPATH, "//a[@id='statisticsPill']")))
+    driver.execute_script("arguments[0].click();", item)
+    # pause for table to be loaded
+    time.sleep(2)
