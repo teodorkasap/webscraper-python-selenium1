@@ -33,16 +33,18 @@ driver.execute_script("arguments[0].click();", item)
 # pause for table to be loaded
 time.sleep(2)
 
+# define a list to hold all player id values
+player_ids = []
+
+
 # scrape the table data
 for table in driver.find_elements_by_xpath('//*[contains(@id,"rankingsTable")]//tr'):
     # the line below gets the data on each row as an array
     #data = [item.text for item in table.find_elements_by_xpath(".//*[self::td or self::th]")]
-    player_ids = []
     data = table.get_attribute('innerHTML')
     match = re.search('playerId=(\d+)', data)
     if match:
         player_id=match.group(1)
-        print(player_id)
-            # player_ids.append(player_id)
+        player_ids.append(player_id)
 
-# print(player_ids)
+print(player_ids)
