@@ -4,6 +4,7 @@ import pandas as pd
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
+import time
 
 
 
@@ -27,4 +28,12 @@ driver.execute_script("arguments[0].click();", item)
 # click the option "all" in the dropdown
 item = wait.until(EC.visibility_of_element_located((By.XPATH,"//a[@class='dropdown-item dropdown-item-button' and contains(.,'All')]")))
 driver.execute_script("arguments[0].click();", item)
+
+# pause for table to be loaded
+time.sleep(2)
+
+# scrape the table data
+for table in driver.find_elements_by_xpath('//*[contains(@id,"rankingsTable")]//tr'):
+    data = [item.text for item in table.find_elements_by_xpath(".//*[self::td or self::th]")]
+    print(data)
 
