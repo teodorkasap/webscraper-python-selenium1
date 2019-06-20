@@ -32,7 +32,7 @@ item = wait.until(EC.visibility_of_element_located(
 driver.execute_script("arguments[0].click();", item)
 
 # pause for table to be loaded
-time.sleep(2)
+time.sleep(0.5)
 
 # define a list to hold all player id values
 player_ids = []
@@ -51,7 +51,7 @@ for table in driver.find_elements_by_xpath('//*[contains(@id,"rankingsTable")]//
 print(player_ids)
 
 # pause for table to be loaded
-time.sleep(1)
+driver.implicitly_wait(0.5)
 
 # loop over the list of player ids 
 for i in range(0,1):
@@ -70,7 +70,7 @@ for i in range(0,1):
     driver.execute_script("arguments[0].click();", item)
     
     # pause for selection to be loaded
-    time.sleep(1)
+    driver.implicitly_wait(0.5)
 
     # select the "Adv."  dropdown and click it
     item = wait.until(EC.visibility_of_element_located(
@@ -78,7 +78,7 @@ for i in range(0,1):
     driver.execute_script("arguments[0].click();", item)
 
     # pause just in case
-    time.sleep(1)
+    driver.implicitly_wait(0.5)
 
     # input stats "from" date to get the relevant data tables
     item = wait.until(EC.visibility_of_element_located(
@@ -86,22 +86,37 @@ for i in range(0,1):
     item.send_keys('01-03-2019')
     
     # pause just in case
-    time.sleep(0.5)
+    driver.implicitly_wait(0.5)
 
     player_data = []
-    # scrape the table with player stats
+    # scrape the table with player stats, as text first, then append to list as "list of lists"
     for table in driver.find_elements_by_xpath('//*[contains(@id,"playerStatsTab")]//tr'):
         data = [item.text for item in table.find_elements_by_xpath(".//*[self::td or self::th]")]
         player_data.append(data)
     
     print(player_data)
+
+    # turn the "list of lists" to data frame
     data_frame=pd.DataFrame(player_data)
     print(' ')
     print(' ')
     print(data_frame)
 
     data_frame=data_frame.iloc[[3,6,8,13,14],[0,1]]
-
     print(' ')
     print(' ')
     print(data_frame)
+
+    data_frame = data_frame.T
+    columns = ['1st Serve' ,  'Break Points Saved' ,  'Service Games Won' ,  '2nd Srv. Return Won' ,  'Break Points Won' ]
+    data_frame.columns=columns
+    data_frame=data_frame.drop(data_frame.index[0:1])
+     # Change all dtypes to float for calculations in later stages
+    cols = data_frame.select_dtypes(exclude=['float']).columns
+    for col in columns:
+        data_frame[col]=data_frame[col].str.replace('%','')
+        data_frame[col]=data_frame[col].astype(float)
+    print(' ')
+    print(' ')
+    print(data_frame)
+    print(data_frame.dtypes)
