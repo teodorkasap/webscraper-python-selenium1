@@ -38,6 +38,8 @@ time.sleep(0.5)
 player_ids = []
 
 
+players_master_dataframe_list=[]
+
 # scrape the table data
 for table in driver.find_elements_by_xpath('//*[contains(@id,"rankingsTable")]//tr'):
     # the line below gets the data on each row as an array
@@ -58,6 +60,12 @@ for i in range(0,1):
 
     # compose url's for player detail pages and open these url's
     driver.get(url2+player_ids[i])
+
+    # get player name
+    item = wait.until(EC.visibility_of_element_located(
+    (By.XPATH, "//h3")))
+    player_name=item.text
+    print(player_name)
 
     # open dropdown for statistics options
     item = wait.until(EC.visibility_of_element_located(
@@ -111,12 +119,16 @@ for i in range(0,1):
     columns = ['1st Serve' ,  'Break Points Saved' ,  'Service Games Won' ,  '2nd Srv. Return Won' ,  'Break Points Won' ]
     data_frame.columns=columns
     data_frame=data_frame.drop(data_frame.index[0:1])
-     # Change all dtypes to float for calculations in later stages
-    cols = data_frame.select_dtypes(exclude=['float']).columns
+    # Change all dtypes to float for calculations in later stages
     for col in columns:
         data_frame[col]=data_frame[col].str.replace('%','')
         data_frame[col]=data_frame[col].astype(float)
+    
+    data_frame.insert(0,'Player Name',player_name)
     print(' ')
     print(' ')
     print(data_frame)
     print(data_frame.dtypes)
+    players_master_dataframe_list.append(data_frame)
+
+print(players_master_dataframe_list)
