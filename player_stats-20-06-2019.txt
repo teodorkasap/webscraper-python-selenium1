@@ -1,0 +1,389 @@
+"Player Name" "1st Serve" "Break Points Saved" "Service Games Won" "2nd Srv. Return Won" "Break Points Won"
+"Novak Djokovic" 64.9 65.4 85.6 55.1 44.3
+"Rafael Nadal" 68.5 66.4 85.6 55.3 44.9
+"Roger Federer" 62.0 67.2 88.8 50.9 41.1
+"Dominic Thiem" 59.4 63.0 82.8 50.0 38.7
+"Alexander Zverev" 62.9 60.4 81.2 50.7 42.8
+"Stefanos Tsitsipas" 59.7 62.0 84.1 47.9 40.0
+"Kei Nishikori" 61.1 61.2 80.5 52.9 41.0
+"Kevin Anderson" 64.6 65.9 86.7 46.9 36.0
+"Karen Khachanov" 60.6 63.1 82.2 49.2 39.6
+"Fabio Fognini" 59.1 56.7 71.6 51.0 43.0
+"John Isner" 69.0 70.8 91.7 42.0 30.8
+"Juan Martin Del Potro" 63.8 63.4 84.9 51.7 41.8
+"Daniil Medvedev" 58.6 62.1 79.8 51.4 39.6
+"Borna Coric" 61.9 62.0 80.8 50.2 39.1
+"Marin Cilic" 56.4 63.9 83.8 50.2 39.1
+"Gael Monfils" 62.2 61.3 80.7 49.2 41.4
+"Nikoloz Basilashvili" 61.2 58.7 74.2 49.9 38.8
+"Milos Raonic" 62.8 69.3 91.0 45.8 35.9
+"Stan Wawrinka" 57.8 63.8 82.5 49.5 39.3
+"Roberto Bautista Agut" 65.8 62.2 79.9 52.6 41.6
+"Felix Auger Aliassime" 64.4 62.6 78.7 48.1 40.4
+"Matteo Berrettini" 61.2 62.8 85.0 46.8 33.7
+"Diego Sebastian Schwartzman" 61.3 55.2 71.2 54.5 44.2
+"Guido Pella" 65.1 62.3 77.9 51.4 37.7
+"Denis Shapovalov" 58.0 64.1 82.5 47.4 37.7
+"Alex De Minaur" 60.9 59.9 76.6 51.7 38.9
+"Laslo Djere" 60.1 61.0 78.3 48.0 34.1
+"Benoit Paire" 51.6 59.5 74.4 49.1 40.5
+"Lucas Pouille" 56.2 63.1 80.2 48.7 39.0
+"Kyle Edmund" 59.1 63.1 81.2 50.2 38.9
+"Dusan Lajovic" 65.2 60.9 77.8 48.1 40.0
+"Christian Garin" 59.3 59.5 75.1 51.1 41.9
+"David Goffin" 58.4 60.5 77.8 3.8 3.8
+"Adrian Mannarino" 60.9 59.0 75.4 50.0 41.7
+"Jan Lennard Struff" 55.9 60.8 80.3 48.5 37.7
+"Frances Tiafoe" 61.6 58.6 79.0 48.7 37.8
+"Fernando Verdasco" 67.3 62.6 80.5 50.6 40.5
+"Gilles Simon" 57.2 60.5 76.5 52.7 42.6
+"Nick Kyrgios" 65.1 66.4 87.9 47.3 38.3
+"Marco Cecchinato" 66.5 56.0 75.0 48.3 37.1
+"Radu Albot" 64.9 55.9 72.0 50.6 38.1
+"Taylor Harry Fritz" 58.1 61.4 80.3 48.9 35.5
+"Pierre Hugues Herbert" 59.0 63.2 82.3 45.1 37.3
+"Pablo Cuevas" 60.3 60.5 79.2 48.8 40.0
+"Grigor Dimitrov" 62.1 62.8 82.8 49.0 37.6
+"Jordan Thompson" 63.0 57.8 75.4 48.9 39.5
+"Mikhail Kukushkin" 60.4 60.4 74.0 51.5 40.9
+"Leonardo Mayer" 61.2 62.1 82.0 47.9 36.9
+"Cameron Norrie" 63.9 63.9 77.4 48.8 41.1
+"Philipp Kohlschreiber" 60.4 62.9 81.7 49.7 40.3
+"Marton Fucsovics" 56.3 61.7 76.9 50.7 38.5
+"Filip Krajinovic" 62.9 57.5 74.4 49.4 38.5
+"Hubert Hurkacz" 62.6 63.0 78.9 47.2 37.9
+"Richard Gasquet" 61.8 61.0 82.2 50.9 41.1
+"Nicolas Jarry" 63.1 64.0 82.5 46.0 37.7
+"Martin Klizan" 58.4 61.3 75.1 50.8 41.3
+"John Millman" 62.7 57.2 76.0 50.5 41.7
+"Pablo Carreno Busta" 63.6 59.3 76.4 51.9 42.5
+"Juan Ignacio Londero" 60.6 61.6 79.0 51.6 38.2
+"Casper Ruud" 65.6 62.7 79.0 49.6 42.6
+"Reilly Opelka" 61.0 66.5 89.8 42.0 25.4
+"Damir Dzumhur" 64.5 56.3 70.6 50.6 44.9
+"Daniel Evans" 60.5 60.1 76.6 50.3 42.2
+"Ugo Humbert" 59.4 63.8 83.4 46.5 38.8
+"Jeremy Chardy" 59.8 63.0 80.8 48.4 37.3
+"Robin Haase" 59.6 60.2 77.8 48.0 39.6
+"Yoshihito Nishioka" 64.1 58.7 70.9 53.5 40.4
+"Sam Querrey" 59.0 63.1 84.9 46.6 37.6
+"Andreas Seppi" 58.1 59.6 76.1 50.0 40.6
+"Mackenzie Mcdonald" 62.9 61.3 77.2 49.6 40.0
+"Joao Sousa" 60.9 58.1 75.3 48.4 38.0
+"Roberto Carballes Baena" 62.0 59.0 74.6 51.3 43.6
+"Ricardas Berankis" 56.3 59.9 77.3 49.2 37.3
+"Lorenzo Sonego" 61.0 62.5 81.3 46.4 32.2
+"Federico Delbonis" 60.1 60.7 77.5 50.2 39.8
+"Steve Johnson" 59.3 65.3 84.3 45.6 36.4
+"Jo Wilfried Tsonga" 62.2 67.1 87.2 47.3 39.8
+"Pablo Andujar" 63.4 57.0 70.1 51.6 39.7
+"Denis Kudla" 58.3 58.6 74.8 48.3 40.7
+"Matthew Ebden" 60.8 56.6 73.4 47.0 38.5
+"Andrey Rublev" 59.5 60.0 75.3 52.0 39.9
+"Miomir Kecmanovic" 62.4 64.3 78.4 53.5 41.3
+"Ivo Karlovic" 65.5 71.2 92.1 40.2 30.3
+"Marius Copil" 57.4 62.3 82.7 44.8 34.9
+"Alexander Bublik" 60.6 52.8 71.2 46.8 39.6
+"Corentin Moutet" 67.0 53.7 65.3 48.6 37.6
+"Lloyd George Muirhead Harris" 56.9 60.4 73.0 50.3 47.8
+"Jaume Munar" 62.4 58.1 73.3 50.4 38.3
+"Bradley Klahn" 61.7 56.7 74.5 42.7 34.6
+"Ernests Gulbis" 60.3 63.8 81.4 47.7 37.6
+"Tennys Sandgren" 61.1 63.7 80.1 45.9 37.3
+"Aljaz Bedene" 56.9 58.3 76.3 48.9 39.0
+"Henri Laaksonen" 59.9 58.4 75.7 49.2 39.0
+"Hugo Dellien" 72.4 61.0 68.6 53.2 32.9
+"Prajnesh Gunneswaran" 61.7 47.7 74.2 48.6 37.3
+"Paolo Lorenzi" 58.6 57.4 73.9 47.9 38.0
+"Yannick Maden" 63.7 60.1 71.6 49.7 39.2
+"Albert Ramos" 61.8 60.5 76.2 49.7 40.2
+"Thomas Fabbiano" 65.4 54.1 69.6 50.9 36.3
+"Malek Jaziri" 53.8 62.2 75.9 48.4 37.1
+"Alexei Popyrin" 60.1 61.1 76.5 42.1 33.0
+"Bernard Tomic" 66.3 63.7 81.1 47.6 36.3
+"Stefano Travaglia" 52.4 60.8 78.2 46.1 44.0
+"Thiago Monteiro" 64.3 60.0 77.2 47.0 40.6
+"Denis Istomin" 65.2 61.8 79.7 47.6 38.3
+"Jiri Vesely" 64.1 63.0 80.1 47.9 37.9
+"Taro Daniel" 62.9 57.7 70.6 50.3 38.8
+"Tomas Berdych" 58.0 63.7 84.4 52.0 41.5
+"Brayden Schnur" 66.7 66.3 82.1 43.7 28.8
+"Marcel Granollers" 61.0 56.8 73.9 48.5 40.0
+"Antonie Hoang" 70.8 57.1 75.0 48.6 39.3
+"Guido Andreozzi" 60.1 61.3 69.7 48.9 37.9
+"Feliciano Lopez" 58.7 65.6 83.8 44.4 35.6
+"Kamil Majchrzak" 60.4 55.4 73.6 48.4 41.0
+"Gregoire Barrere" 64.8 48.8 61.4 48.4 37.3
+"Jason Jung" 65.6 67.0 77.6 49.4 35.7
+"Dennis Novak" 64.0 61.5 73.7 51.7 40.9
+"Matthias Bachinger" 59.2 60.7 75.8 48.3 34.3
+"Mischa Zverev" 64.4 60.4 75.8 47.6 38.6
+"Elias Ymer" 59.8 58.3 73.1 46.9 34.0
+"Peter Gojowczyk" 54.9 59.2 77.7 49.6 39.2
+"Pedro Sousa" 70.8 55.4 65.1 53.3 43.2
+"Sergiy Stakhovsky" 61.8 60.5 78.4 46.8 36.2
+"Salvatore Caruso" 62.3 52.5 61.2 51.7 40.8
+"Mikael Ymer" 64.7 59.7 74.4 52.6 38.0
+"Andrej Martin" 64.6 60.3 68.8 49.1 43.9
+"Pedro Martinez Portero" 65.4 46.4 57.1 45.7 35.3
+"Ryan Harrison" 59.5 62.2 78.8 46.4 38.5
+"Gianluca Mager" 58.4 44.4 58.3 47.6 42.9
+"Evgeny Donskoy" 58.6 62.2 77.1 46.1 34.1
+"Soon Woo Kwon" 54.5 40.0 73.9 46.9 33.3
+"Oscar Otte" 58.4 63.2 84.1 50.5 41.7
+"Alejandro Davidovich Fokina" 71.6 58.1 67.1 53.1 50.0
+"David Ferrer" 63.0 59.9 77.6 54.6 43.7
+"Bjorn Fratangelo" 56.7 57.2 73.2 50.2 42.1
+"Facundo Bagnis" 61.0 59.0 72.3 46.1 34.2
+"Lukas Rosol" 58.2 63.2 78.9 47.0 36.7
+"Tommy Paul" 62.1 58.6 75.8 49.8 35.4
+"Marcos Baghdatis" 53.1 60.3 79.9 50.2 40.3
+"Peter Polansky" 58.2 58.7 72.4 47.2 36.2
+"Lorenzo Giustino" 56.4 42.1 59.3 26.4 20.0
+"Sebastian Ofner" 57.5 64.2 79.3 48.8 34.7
+"Lukas Lacko" 58.7 57.7 76.4 47.1 36.5
+"Ilya Ivashka" 58.8 56.7 74.3 49.6 41.0
+"Jozef Kovalik" 61.2 61.0 76.2 48.6 38.6
+"Michael Mmoh" 64.8 56.6 71.9 46.1 39.6
+"Alex Bolt" 58.7 57.9 74.3 45.3 33.3
+"Nikola Milojevic" 55.1 50.0 69.2 58.0 57.1
+"Filippo Baldi" 59.5 68.4 76.0 43.2 33.3
+"Adrian Menendez Maceiras" 60.6 55.1 70.5 46.9 37.3
+"James Duckworth" 56.2 63.2 78.1 45.4 36.1
+"Rudolf Molleker" 61.5 52.5 75.0 43.4 28.6
+"Dustin Brown" 60.7 63.7 80.5 45.3 36.8
+"Guillermo Garcia Lopez" 58.7 58.7 74.3 50.4 40.1
+"Ramkumar Ramanathan" 57.8 61.1 80.5 47.9 34.1
+"Hyeon Chung" 62.2 56.9 77.3 53.1 42.6
+"Egor Gerasimov" 64.2 60.4 81.6 51.8 39.4
+"Dudi Sela" 60.3 56.1 71.8 50.7 40.4
+"Tatsuma Ito" 58.0 54.1 72.0 48.2 36.0
+"Quentin Halys" 59.6 64.1 78.9 47.5 33.6
+"Marcos Giron" 62.3 71.2 80.0 46.9 28.0
+"Alessandro Giannessi" 65.6 62.9 71.3 49.6 37.7
+"Marco Trungelliti" 57.5 61.5 70.6 48.7 40.4
+"Jay Clarke" 56.1 62.5 82.7 41.5 43.8
+"Kimmer Coppejans" 69.8 50.9 67.8 47.2 25.0
+"Joao Domingues" 71.8 59.7 70.5 47.8 38.2
+"Dominik Koepfer" 57.4 61.9 78.9 47.4 23.5
+"Jason Kubler" 62.1 55.9 67.9 49.8 42.9
+"Go Soeda" 55.6 53.0 70.0 46.8 35.7
+"Mikael Torpegaard" 51.9 52.6 78.0 56.8 38.1
+"Jack Sock" 58.3 63.5 82.5 48.0 38.8
+"Filip Horansky" 62.1 53.3 70.2 44.9 52.6
+"Maximilian Marterer" 63.3 60.6 79.3 43.9 35.4
+"Blaz Rola" 63.7 62.4 75.7 44.5 34.8
+"Ruben Bemelmans" 64.2 61.9 78.8 47.0 36.5
+"Noah Rubin" 61.1 60.9 74.5 49.4 37.5
+"Stefano Napolitano" 60.1 60.0 72.1 56.7 31.3
+"Yasutaka Uchiyama" 63.4 57.1 88.0 47.7 26.1
+"Federico Coria" 70.1 27.3 65.2 62.2 63.6
+"Darian King" 64.6 58.5 69.1 53.6 38.2
+"Enrique Lopez Perez" 51.5 55.6 60.0 18.8 50.0
+"Carlos Berlocq" 64.3 56.7 70.6 50.3 40.8
+"Arthur De Greef" 58.6 57.9 72.4 40.0 36.2
+"Emilio Gomez" 63.1 67.1 82.2 49.1 48.8
+"Simone Bolelli" 66.4 60.3 79.1 46.1 36.9
+"Mitchell Krueger" 59.5 54.8 68.1 52.9 32.3
+"Vasek Pospisil" 57.6 61.9 82.3 44.6 36.4
+"Thanasi Kokkinakis" 59.0 64.2 80.4 48.2 37.3
+"Marc Polmans" 57.7 60.0 69.6 48.8 18.8
+"Daniel Brands" 65.9 62.2 81.8 45.1 31.9
+"Nicolas Mahut" 60.9 61.2 80.8 46.1 38.3
+"Maxime Janvier" 54.3 60.0 74.2 42.3 9.4
+"Viktor Troicki" 60.7 59.7 76.8 49.2 40.5
+"Aleksandr Nedovyesov" 66.1 52.3 71.6 43.6 30.6
+"Facundo Arguello" 61.8 46.3 64.1 41.8 38.0
+"Christopher Eubanks" 63.3 58.0 77.8 41.4 36.5
+"Daniel Elahi Galan Riveros" 60.8 58.7 80.6 47.7 44.6
+"Viktor Galovic" 65.2 52.6 74.8 50.4 34.0
+"Donald Young" 59.8 57.8 72.2 49.0 38.5
+"Federico Gaio" 54.9 63.8 73.9 43.1 38.1
+"Tallon Griekspoor" 68.3 52.8 72.6 45.5 40.0
+"Norbert Gombos" 60.9 62.3 72.9 46.6 28.8
+"Mirza Basic" 58.8 62.1 77.3 45.8 39.7
+"Constant Lestienne" 61.4 50.0 60.8 65.3 44.4
+"Yuichi Sugita" 60.5 58.7 74.5 49.7 38.3
+"Alexey Vatutin" 64.6 53.8 66.7 58.7 51.3
+"Thai Son Kwiatkowski" 64.7 47.8 73.3 45.8 50.0
+"Andrea Arnaboldi" 57.8 61.5 69.1 46.2 31.0
+"Jannik Sinner" 57.0 35.1 60.0 45.3 37.8
+"Roberto Marcora" 50.0 42.9 50.0 16.7 
+"Evgeny Karlovskiy" 69.7 91.7 93.3 36.8 100.0
+"James Ward" 60.4 59.3 76.0 46.9 32.4
+"Duck Hee Lee" 50.0 50.0 80.0 40.4 22.2
+"Yannick Hanfmann" 64.0 64.9 79.3 46.4 32.7
+"Andy Murray" 58.1 62.4 82.0 55.2 43.6
+"Tommy Robredo" 64.8 60.8 78.4 51.1 41.3
+"Elliot Benchetrit" 50.0 43.8 40.0 46.7 27.3
+"Tim Smyczek" 61.5 59.1 72.4 48.6 37.9
+"Attila Balazs" 60.1 62.6 74.9 44.4 33.0
+"Saketh Myneni" 55.5 59.7 62.1 46.3 47.4
+"Thiemo De Bakker" 59.9 62.0 78.7 45.5 37.7
+"Ze Zhang" 64.1 56.9 69.6 48.9 42.4
+"Luca Vanni" 57.3 58.1 79.5 41.9 33.3
+"Rogerio Dutra Silva" 60.9 55.7 70.0 46.3 35.7
+"Pedro Cachin" 55.9 52.0 76.0 45.1 25.9
+"John Patrick Smith" 63.8 55.8 76.1 45.0 40.0
+"Roberto Quiroz" 63.5 67.4 89.5 39.6 38.3
+"Lucas Miedler" 65.5 52.9 65.2 55.6 31.3
+"Zdenek Kolar" 55.8 50.0 60.0 50.0 14.3
+"Pedja Krstin" 63.7 39.1 70.8 52.9 52.0
+"Sergio Gutierrez Ferrol" 49.4 52.2 71.8 48.8 72.7
+"Steve Darcis" 60.9 59.0 76.3 49.4 40.1
+"Mathias Bourgue" 64.5 47.2 68.9 47.6 29.3
+"Blaz Kavcic" 62.9 54.8 67.9 49.9 41.6
+"Akira Santillan" 53.5 45.2 74.4 46.3 41.0
+"Steven Diez" 61.4 54.8 66.3 56.0 35.1
+"Zhe Li" 67.6 51.9 64.8 44.9 32.6
+"Bernabe Zapata Miralles" 56.7 48.0 62.9 58.3 55.0
+"Yosuke Watanuki" 56.6 59.3 80.4 47.2 46.7
+"Mohamed Safwat" 63.2 59.0 76.3 47.6 44.7
+"Jurgen Zopp" 60.0 58.7 76.8 46.0 32.9
+"Nicola Kuhn" 63.4 45.5 68.0 46.6 42.2
+"Santiago Giraldo" 63.6 59.7 76.8 48.6 39.1
+"Hiroki Moriya" 60.1 56.7 66.2 47.5 47.7
+"Daniel Gimeno Traver" 59.0 57.8 74.1 47.6 36.7
+"Sumit Nagal" 61.8 50.0 55.2 47.7 41.2
+"Gianluigi Quinzi" 53.0 77.4 73.1 55.4 50.0
+"Daniel Masur" 69.5 65.0 72.5 48.1 25.0
+"Tristan Lamasine" 65.0 60.4 72.7 44.6 51.5
+"Matteo Viola" 60.9 54.1 57.6 52.6 41.0
+"Thomaz Bellucci" 58.1 59.2 76.8 50.0 38.9
+"Gleb Sakharov" 60.0 53.1 64.3 34.9 33.3
+"Max Purcell" 69.8 28.6 44.4 57.1 100.0
+"Uladzimir Ignatik" 66.7 50.0 70.0 35.7 50.0
+"Scott Griekspoor" 55.4 57.1 80.0 36.8 33.3
+"Tobias Kamke" 59.0 56.6 71.1 51.9 39.8
+"Filip Peliwo" 54.0 59.3 67.1 49.3 43.9
+"Jc Aragone" 65.0 40.0 57.1 39.3 20.0
+"Collin Altamirano" 52.7 50.0 63.0 38.0 33.3
+"Marc Andrea Huesler" 60.2 64.0 85.0 49.7 40.0
+"Jurij Rodionov" 55.9 45.5 73.9 49.2 22.2
+"Kenny De Schepper" 66.8 66.2 81.2 43.2 28.8
+"Jose Hernandez" 69.3 50.0 74.0 48.3 21.1
+"Ernesto Escobedo" 55.4 62.1 79.9 43.6 31.2
+"Cem Ilkel" 57.9 53.2 67.8 48.1 43.6
+"Kevin Krawietz" 56.6 33.3 50.0 44.3 33.3
+"Marcelo Tomas Barrios Vera" 64.9 66.7 91.7 52.8 20.0
+"Roberto Ortega Olmedo" 51.7 77.8 77.8 21.1 0.0
+"Stephane Robert" 53.1 55.5 69.4 51.1 39.8
+"Jan Choinski" 66.7 33.3 60.0 50.0 0.0
+"Gilles Muller" 61.4 66.5 84.8 44.8 34.4
+"Janko Tipsarevic" 56.3 61.2 80.2 50.4 39.5
+"Guilherme Clezar" 62.8 55.2 65.7 49.1 34.0
+"Liam Broady" 60.9 55.7 68.3 46.3 37.1
+"Roman Safiullin" 83.9 57.1 66.7 7.1 
+"Jared Donaldson" 52.0 57.3 77.6 49.3 39.7
+"Benjamin Bonzi" 57.2 55.9 68.8 47.9 38.5
+"Laurynas Grigelis" 64.4 66.3 83.6 50.2 36.3
+"Nino Serdarusic" 53.5 70.0 75.0 44.6 50.0
+"Alexandre Muller" 58.0 65.0 70.8 50.0 43.8
+"Ji Sung Nam" 50.0    
+"Tomislav Brkic" 67.4 57.6 80.8 50.0 24.4
+"Carlos Taberner" 65.7 66.7 75.0 44.5 22.2
+"Yibing Wu" 56.3 63.2 74.1 44.0 35.3
+"Zhizhen Zhang" 58.1 58.7 77.6 50.9 36.2
+"Benjamin Hassan" 53.8 60.0 86.9 50.4 42.1
+"Marcelo Arevalo" 61.7 60.6 81.8 51.1 50.5
+"Tsung Hua Yang" 58.7 64.3 78.9 38.8 43.8
+"Aleksandar Vukic" 58.7 71.4 87.5 45.5 20.0
+"Jurgen Melzer" 61.4 60.2 77.6 48.4 39.9
+"Evan King" 62.9 51.4 72.6 47.7 45.8
+"Borna Gojo" 63.2 57.1 66.7 27.8 0.0
+"Luke Saville" 60.2 60.5 71.7 41.7 48.6
+"Gerald Melzer" 64.2 57.9 72.0 50.0 37.9
+"Adam Pavlasek" 61.5 57.7 72.6 44.3 47.2
+"Mate Valkusz" 64.2 52.6 58.1 51.8 34.6
+"Gonzalo Escobar" 67.9 54.5 76.7 46.7 21.2
+"Christian Harrison" 56.0 58.4 68.0 48.5 50.0
+"Dimitar Kuzmanov" 62.9 50.0 70.1 46.3 45.7
+"Frederico Ferreira Silva" 57.8 41.9 67.3 50.3 51.4
+"Joris De Loore" 59.7 57.7 84.5 45.4 45.5
+"Dragos Dima" 53.2 66.7 87.5 75.0 100.0
+"Aldin Setkic" 65.1 62.9 56.7 39.7 16.7
+"Martin Cuevas" 58.9 60.0 79.5 50.0 33.3
+"Gastao Elias" 52.5 56.2 71.7 46.5 40.7
+"Renzo Olivo" 59.1 58.0 69.0 49.5 37.1
+"Ryan Shane" 50.4 36.4 58.8 34.2 16.7
+"Roberto Cid" 53.8 50.0 59.6 45.7 36.8
+"Alexander Sarkissian" 58.0 50.0 74.0 49.3 38.1
+"Vincent Millot" 59.2 59.7 69.2 48.8 41.9
+"Calvin Hemery" 60.3 49.3 66.1 44.3 33.3
+"Matteo Donati" 62.1 62.5 72.7 47.1 44.4
+"Juan Pablo Varillas Patino Samudio" 55.1 55.6 82.9 49.0 21.6
+"Ante Pavic" 58.3 61.3 76.5 41.5 22.2
+"Aslan Karatsev" 62.1 59.2 66.7 48.9 23.4
+"Oriol Roca Batalla" 61.7 93.3 96.9 45.9 20.0
+"Di Wu" 59.4 53.8 63.7 50.2 37.9
+"Vaclav Safranek" 65.6 60.7 69.4 34.1 0.0
+"Alessandro Bega" 67.1 20.0 66.7 51.1 28.6
+"Dmitry Popko" 68.6 62.3 77.5 42.5 35.3
+"Viktor Durasovic" 63.2 59.3 73.8 40.5 28.6
+"Thiago Seyboth Wild" 55.4 53.1 77.9 45.5 26.8
+"Brydan Klein" 58.4 50.0 71.4 48.0 44.1
+"Horacio Zeballos" 62.3 62.2 79.4 45.5 37.1
+"Zsombor Piros" 64.2 56.1 71.0 51.5 28.6
+"Jan Satral" 55.3 68.3 72.2 44.3 39.3
+"Yan Bai" 54.4 62.9 65.7 43.5 43.3
+"Kevin King" 62.6 68.9 70.2 48.0 22.7
+"Jose Rubin Statham" 62.4 53.8 67.1 48.0 31.2
+"Frank Dancevic" 60.4 60.8 78.6 45.3 33.9
+"Pedro Sakamoto" 61.0 0.0 50.0 43.8 50.0
+"Alejandro Gonzalez" 59.9 53.4 66.5 48.4 37.7
+"Illya Marchenko" 57.7 59.4 74.6 48.8 39.2
+"Victor Estrella" 64.8 58.0 73.9 47.0 40.1
+"Peter Torebko" 56.0 44.4 70.6 57.6 57.1
+"Dennis Novikov" 54.6 60.6 81.2 49.2 35.5
+"Sebastian Korda" 64.5 70.6 64.3 54.5 42.9
+"Yusuke Takahashi" 49.4 44.4 66.7 44.4 40.0
+"Yuki Bhambri" 64.6 52.6 70.2 50.0 42.5
+"Sekou Bangoura" 66.7 0.0 90.9 28.0 
+"Franco Skugor" 59.6 57.4 72.3 46.7 35.5
+"Sandro Ehrat" 53.2 46.2 75.9 37.5 60.0
+"Miljan Zekic" 66.2 68.0 73.3 42.1 22.2
+"Stefan Kozlov" 55.3 53.0 61.1 49.6 40.4
+"Andres Artunedo Martinavarr" 76.6 50.0 66.7 40.0 50.0
+"Arjun Kadhe" 64.2 61.1 68.2 36.6 60.0
+"Geoffrey Blancaneaux" 54.2 41.7 36.4 37.0 0.0
+"Karim Mohamed Maamoun" 56.3 55.8 57.4 57.1 53.6
+"Carlos Gomez Herrera" 68.5 63.6 73.3 47.8 10.0
+"Teymuraz Gabashvili" 57.2 59.9 74.2 49.0 38.1
+"Youssef Hossam" 60.7 53.3 75.0 52.6 52.4
+"Emil Ruusuvuori" 65.6 51.0 69.2 50.9 42.0
+"Nam Hoang Ly" 61.8 47.4 67.7 52.8 57.1
+"Joao Souza" 62.6 53.6 74.2 45.5 35.8
+"Edan Leshem" 59.5 44.8 69.8 43.9 50.0
+"Andrea Basso" 45.0 28.6 44.4 53.6 33.3
+"Chun Hsin Tseng" 57.9 58.8 77.4 49.4 55.6
+"Tim Van Rijthoven" 55.6 72.7 78.6 40.6 25.0
+"Hugo Gaston" 47.3 33.3 50.0 33.3 
+"Ben Fatael" 0.0    
+"Khumoun Sultanov" 54.3 80.0 87.5 66.7 71.4
+"Ricardo Ojeda Lara" 68.5 57.5 70.7 48.1 50.0
+"Yannick Mertens" 62.4 63.2 76.7 48.6 43.8
+"Albano Olivetti" 57.2 66.0 83.7 41.1 23.4
+"Orlando Luz" 50.7 40.0 70.0 38.5 0.0
+"Harri Heliovaara" 62.2 58.5 74.6 52.3 47.1
+"Markus Eriksson" 66.4 58.4 69.2 49.8 35.0
+"Gerard Granollers" 66.1 46.2 51.2 49.3 40.7
+"Sanjar Fayziev" 57.0 59.5 67.0 47.1 19.4
+"Alexander Ward" 64.6 63.0 69.1 43.8 37.5
+"Takanyi Garanganga" 61.3 53.5 71.8 47.6 43.2
+"Konstantin Kravchuk" 62.0 61.1 76.0 44.2 35.5
+"Louis Wessels" 71.0 46.2 66.7 40.5 33.3
+"Jordi Samper Montana" 64.3 59.3 59.3 57.4 63.6
+"Ivan Nedelko" 51.0 38.5 50.0 34.1 14.3
+"Altug Celikbilek" 57.6 60.0 77.8 46.3 32.1
+"Francisco Cerundolo" 65.8 54.5 61.5 43.5 50.0
+"Riccardo Bellotti" 75.5 33.3 57.1 40.6 50.0
+"Petros Chrysochos" 59.0 51.4 66.7 53.9 30.3
+"Liam Caruana" 51.3 50.0 83.3 37.1 20.0
+"Alexander Lazov" 66.7 45.5 25.0 45.0 50.0
+"Andreas Haider Maurer" 55.8 60.4 74.8 45.1 37.0
+"Daniel Altmaier" 59.5 61.8 78.3 43.0 35.0
+"Evgeny Tyurnev" 51.2 16.7 37.5 51.6 16.7
+"Lucas Gomez" 62.3 42.5 54.5 48.7 36.6
+"Gonzalo Lama" 66.0 69.4 86.4 50.0 42.2
+"Alexandar Lazarov" 52.0 52.9 64.4 53.6 26.1
+"Alejandro Gomez Gb42" 49.2 65.5 61.5 37.5 50.0
