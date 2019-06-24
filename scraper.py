@@ -19,10 +19,10 @@ driver = webdriver.Chrome()
 url = 'https://www.ultimatetennisstatistics.com/rankingsTable'
 url2 = 'https://www.ultimatetennisstatistics.com/playerProfile?playerId='
 
-# access website through driver
+# access website through driver / 
 driver.get(url)
 
-# wait
+# wait / bekle tanımlıyoruz, birinci parametre sürücü ikincisi ise 'timeout'
 wait = WebDriverWait(driver, 60)
 
 # click the button "20" to show dropdown options to display records per page
@@ -44,19 +44,23 @@ player_ids = []
 
 players_master_dataframe_list=[]
 
-# scrape the table data
+# scrape the table data / ranking listesi tablosunu tarama
 for table in driver.find_elements_by_xpath('//*[contains(@id,"rankingsTable")]//tr'):
     # the line below gets the data on each row as an array
     #data = [item.text for item in table.find_elements_by_xpath(".//*[self::td or self::th]")]
+
+    # find html links in the scraped table / tablonun arka planındaki html linklerini alma ve oradan playerID değişkenini bulma
     data = table.get_attribute('innerHTML')
     match = re.search('playerId=(\d+)', data)
+
+    # adding playerId's found to list / bulduğumuz playerId'leri bir listede topluyoruz
     if match:
         player_id=match.group(1)
         player_ids.append(player_id)
 
 print(player_ids)
 
-# pause for table to be loaded
+# pause for table to be loaded / her ihtimale karşı, html elemanlarının yüklenmesini bekleme
 driver.implicitly_wait(0.5)
 
 # loop over the list of player ids, define range first
